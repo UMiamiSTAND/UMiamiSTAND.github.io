@@ -1,4 +1,4 @@
-<a href="https://STANDum.org" target="_blank"><img alt="Students Toward A New Democracy | University of Miami" src="https://github.com/UMiamiSTAND/.github/blob/dddd81505b6c9e03c73eafbdadd55ac9082fa785/profile/images/STANDscreenshot.png"></a>
+<a href="https://STANDum.org" target="_blank"><img alt="Students Toward A New Democracy | University of Miami" src="https://github.com/UMiamiSTAND/UMiamiSTAND.github.io/blob/5cec11ff094baa6053d061b6c0d7aea49869db5a/src/images/STANDscreenshot.png"></a>
 
 Students Toward A New Democracy is a student organization at the University of Miami that strives to create an activist culture in an historically apathetic student body.
 
