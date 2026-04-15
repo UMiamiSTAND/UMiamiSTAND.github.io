@@ -30,5 +30,23 @@ Because balances are not being checked
 and Because change is imperative
 
 ## Archives
-- [UMiami Library Archive](https://atom.library.miami.edu/asm0665)
+
+### Videos
+- [YouTube Playlist: Organizing as STAND with UNICCO janitors](https://www.youtube.com/watch?v=FI9swoonP4M&list=PLxmU2bd_JilrjaFrxzLlSAtHO-VHFNJcB)
+
+### Websites
+- [STANDum.org - Archive.org](https://web.archive.org/web/20060827012208/http://www.standum.org/htm/)
+- [Picketline](https://picketline.blogspot.com/)
+- [YesWeCane.org - Archive.org](https://web.archive.org/web/20070804174043/http://www.yeswecane.org/index.asp?Type=NONE&SEC=%7B93141A68-ACFE-4641-B93F-2094D4A69226%7D)
 - [CampusActivism.org](http://www.campusactivism.org/displayobject.php?giGid=1786&gsTable=groups)
+- [Petition - Archive.org](https://web.archive.org/web/20070422154226/http://www.petitiononline.com/UMStand/petition.html)
+
+### Books
+- ["Beyond the Fields: Cesar Chavez, the UFW, and the Struggle for Justice in the 21st Century" by Randy Shaw](http://books.google.com/books?id=IWa8A9GwRd4C&pg=PA97&source=gbs_toc_r&cad=2)
+  
+### Archival Records
+- [UMiami Library - Archival Records](https://atom.library.miami.edu/asm0665)
+
+### Press
+- [The Miami Hurricane - search "Students Toward A New Democracy"](https://themiamihurricane.com/?s=students+toward+a+new+democracy)
+- [The Miami Hurricane - search "S.T.A.N.D."](https://themiamihurricane.com/?s=s.t.a.n.d.)
