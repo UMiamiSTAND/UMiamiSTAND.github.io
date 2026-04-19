@@ -46,6 +46,7 @@ and Because change is imperative
   
 ### Archival Records
 - [UMiami Library - Archival Records](https://atom.library.miami.edu/asm0665)
+- [Wikipedia](https://en.wikipedia.org/wiki/University_of_Miami_Justice_for_Janitors_campaign)
 
 ### Press
 - [The Miami Hurricane - search "Students Toward A New Democracy"](https://themiamihurricane.com/?s=students+toward+a+new+democracy)
